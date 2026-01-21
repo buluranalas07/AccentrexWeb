@@ -1,1 +1,3 @@
 Landing page implementation for the Accentrex website, enabling appointment scheduling and service presentation to enhance client engagement for international migration services. This project was developed as part of my OJT at NexusCloud I.T. Solutions.
+
+Demo: https://accentrex-web.vercel.app/
